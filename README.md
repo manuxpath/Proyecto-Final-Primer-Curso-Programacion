@@ -1,4 +1,7 @@
 # Proyecto final de programación del primer año de DAM
+
+*Añadir que la aplicación ocupa un uso básico de todo lo relacionado con bases de datos y no tiene en cuenta la optimización u elementos de seguridad en la misma.*
+
 Esta aplicación Java utiliza una base de datos MySQL para implementar un proyecto final de programación de primer año. El objetivo principal es crear una aplicación de mensajería similar a Gmail, pero de forma local, para los usuarios. Además, se ha incorporado la funcionalidad de crear emergencias que pueden ser gestionadas por bomberos o voluntarios, incluyendo usuarios tanto españoles como japoneses, ya que la aplicación está disponible en ambos idiomas.
 
 Características destacadas:
